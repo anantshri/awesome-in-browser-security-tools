@@ -189,7 +189,7 @@
       "keywords": ["HIPAA", "compliance", "risk-assessment", "healthcare", "security", "SRA"],
       "donations": null,
       "category": "compliance",
-      "license": "Unlicensed"
+      "license": "MIT"
     }
   ],
   "categories": {
