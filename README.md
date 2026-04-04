@@ -233,6 +233,20 @@ A browser-based tool to analyze password strength, estimate entropy, generate se
 
 ## Compliance & Risk Assessment
 
+### HIPAA SRA
+
+A comprehensive client-side HIPAA Security Risk Assessment tool with 33+ controls, policy library, workforce training modules, risk register, and multi-dimensional compliance dashboard. No backend, no tracking — all data stays in the browser.
+
+| Property | Value |
+|----------|-------|
+| **Author** | l0lsec |
+| **Demo** | [l0lsec.github.io/hipaa-sra/](https://l0lsec.github.io/hipaa-sra/) |
+| **Repository** | [github.com/l0lsec/hipaa-sra](https://github.com/l0lsec/hipaa-sra) |
+| **Keywords** | `HIPAA`, `compliance`, `risk-assessment`, `healthcare`, `security`, `SRA` |
+| **License** | ![License](https://badgen.net/github/license/l0lsec/hipaa-sra) |
+| **Last Update** | ![Last Commit](https://badgen.net/github/last-commit/l0lsec/hipaa-sra) |
+
+---
 ### HIPAA-SRA-Tool
 
 A client-side only, no-data-retained HIPAA Security Risk Assessment (SRA) tool. Runs 100% in the browser with no backend, no trackers, no storage. Supports PDF export and JSON import/export.
@@ -302,4 +316,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-<sub>Last generated: 2026-01-29 15:33 UTC</sub>
+<sub>Last generated: 2026-04-04 20:03 UTC</sub>

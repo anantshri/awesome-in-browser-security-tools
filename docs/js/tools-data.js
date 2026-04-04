@@ -273,6 +273,24 @@ window.TOOLS_DATA = {
       "donations": null,
       "category": "compliance",
       "license": "CC BY-NC-ND 4.0"
+    },
+    {
+      "name": "HIPAA SRA",
+      "author": "l0lsec",
+      "repo": "https://github.com/l0lsec/hipaa-sra",
+      "demo": "https://l0lsec.github.io/hipaa-sra/",
+      "description": "A comprehensive client-side HIPAA Security Risk Assessment tool with 33+ controls, policy library, workforce training modules, risk register, and multi-dimensional compliance dashboard. No backend, no tracking \u2014 all data stays in the browser.",
+      "keywords": [
+        "HIPAA",
+        "compliance",
+        "risk-assessment",
+        "healthcare",
+        "security",
+        "SRA"
+      ],
+      "donations": null,
+      "category": "compliance",
+      "license": "MIT"
     }
   ],
   "categories": {
