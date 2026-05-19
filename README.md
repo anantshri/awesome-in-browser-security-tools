@@ -30,6 +30,7 @@ Read more: [Making Security Tools Accessible: Why I Chose the Browser](https://b
 - [Password Security](#password-security)
 - [Compliance & Risk Assessment](#compliance--risk-assessment)
 - [Infrastructure as Code](#infrastructure-as-code)
+- [Web Security](#web-security)
 - [Contributing](#contributing)
 
 ---
@@ -294,6 +295,23 @@ Free Browser Based IAC security scanner for Terraform, Kubernetes, Docker, and C
 
 ---
 
+## Web Security
+
+### ClobberX
+
+A browser-focused tool for generating DOM Clobbering payloads across different browsers (FireFox, Chrome)
+
+| Property | Value |
+|----------|-------|
+| **Author** | Alfin Joseph |
+| **Demo** | [clobberx.netlify.app/](https://clobberx.netlify.app/) |
+| **Repository** | [github.com/AlfinJ0se/ClobberX](https://github.com/AlfinJ0se/ClobberX) |
+| **Keywords** | `Web Security`, `security`, `client-side-security` |
+| **License** | ![License](https://badgen.net/github/license/AlfinJ0se/ClobberX) |
+| **Last Update** | ![Last Commit](https://badgen.net/github/last-commit/AlfinJ0se/ClobberX) |
+
+---
+
 ## Contributing
 
 Contributions are welcome! To add a new tool:
@@ -316,4 +334,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-<sub>Last generated: 2026-04-04 20:03 UTC</sub>
+<sub>Last generated: 2026-05-19 08:17 UTC</sub>

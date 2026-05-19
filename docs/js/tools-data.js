@@ -291,6 +291,21 @@ window.TOOLS_DATA = {
       "donations": null,
       "category": "compliance",
       "license": "MIT"
+    },
+    {
+      "name": "ClobberX",
+      "author": "Alfin Joseph",
+      "repo": "https://github.com/AlfinJ0se/ClobberX",
+      "demo": "https://clobberx.netlify.app/",
+      "description": "A browser-focused tool for generating DOM Clobbering payloads across different browsers (FireFox, Chrome)",
+      "keywords": [
+        "Web Security",
+        "security",
+        "client-side-security"
+      ],
+      "donations": null,
+      "category": "web",
+      "license": "Unlicensed"
     }
   ],
   "categories": {
@@ -343,6 +358,11 @@ window.TOOLS_DATA = {
       "name": "Infrastructure as Code",
       "description": "Infrastructure as Code security scanners and analysis tools",
       "order": 10
+    },
+    "web": {
+      "name": "Web Security",
+      "description": "Web Security scanners and tools",
+      "order": 11
     }
   }
 };
