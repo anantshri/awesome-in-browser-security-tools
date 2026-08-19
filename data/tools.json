@@ -71,6 +71,19 @@
       "category": "auth"
     },
     {
+      "name": "Hugging Face Token Analyzer",
+      "author": "Devang-Solanki",
+      "repo": "https://github.com/Devang-Solanki/hf-token-analyzer",
+      "demo": "https://hf-analyzer.devanghacks.in/",
+      "description": "A comprehensive, client-side tool to analyze HuggingFace API tokens and understand their permissions and capabilities.",
+      "keywords": ["HuggingFace", "token", "authentication", "repository", "API"],
+      "donations": {
+        "buy_me_a_coffee": "https://www.buymeacoffee.com/devangsolankii"
+      },
+      "license": "GPL-3.0",
+      "category": "auth"
+    },
+    {
       "name": "ADB Auditor",
       "author": "thecybersandeep",
       "repo": "https://github.com/thecybersandeep/adbauditor",
