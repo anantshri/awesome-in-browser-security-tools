@@ -201,6 +201,17 @@
       "donations": null,
       "category": "web",
       "license": "Unlicensed"
+    },
+    {
+      "name": "FiveM Backdoor Scanner",
+      "author": "RPScripts",
+      "repo": "https://github.com/rpScripts/fivem-backdoor-scanner",
+      "demo": "https://rpscripts.net/tools/fivem-backdoor-scanner/",
+      "description": "Checks FiveM/RedM game-server resources (Lua/JS files or ZIPs) for known backdoor patterns such as remote code loaded over HTTP, obfuscated loaders and leaked tokens. The scan runs locally in the browser; files are not uploaded. The MIT-licensed command-line version and its rules are in the repository.",
+      "keywords": ["backdoor", "malware", "Lua", "FiveM", "game-server", "static-analysis"],
+      "donations": null,
+      "category": "supplychain",
+      "license": "MIT"
     }
     
   ],
@@ -259,6 +270,11 @@
       "name": "Web Security",
       "description": "Web Security scanners and tools",
       "order": 11
+    },
+    "supplychain": {
+      "name": "Code & Supply-Chain Analysis",
+      "description": "Static analysis of third-party code, scripts and packages for malicious or risky patterns",
+      "order": 12
     }
   }
 }
